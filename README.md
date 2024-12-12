@@ -1,1 +1,1 @@
-export OPENAI_API_KEY=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
+
